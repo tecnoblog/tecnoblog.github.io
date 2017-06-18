@@ -5,8 +5,8 @@ date: 2016-02-19
 categories:
   - Juice
 description: 
-image: https://pixnio.com/free-images/2017/06/01/2017-06-01-00-00-46.jpg
-image-sm: https://pixnio.com/free-images/2017/06/01/2017-06-01-00-00-46.jpg
+image: https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg
+image-sm: https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg
 ---
 Un editor de código es una pieza clave para cualquier programador que se precie, su herramienta principal de trabajo para desarrollar su actividad y programar su aplicaciones, páginas web o cualquier otro desarrollo web.
 
