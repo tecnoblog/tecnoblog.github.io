@@ -3,7 +3,7 @@ layout: post
 title: "Editores de código más utilizados"
 date: 2016-02-19
 categories:
-  - PC
+  - Juice
 description: 
 image: https://pixnio.com/free-images/2017/06/01/2017-06-01-00-00-46.jpg
 image-sm: https://pixnio.com/free-images/2017/06/01/2017-06-01-00-00-46.jpg
