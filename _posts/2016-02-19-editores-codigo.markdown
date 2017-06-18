@@ -3,7 +3,7 @@ layout: post
 title: "Editores de código más utilizados"
 date: 2016-02-19
 categories:
-  - Juice
+  - PC
 description: 
 image: https://s10.postimg.org/61qeeerzd/code.jpg
 image-sm: https://s10.postimg.org/61qeeerzd/code.jpg
