@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: aps2710@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
