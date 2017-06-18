@@ -1,21 +1,16 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "Editores de código más utilizados"
 date: 2016-02-19
 categories:
-  - Juice
+  - PC
 description: 
 image: https://pixnio.com/free-images/2017/06/01/2017-06-01-00-00-46.jpg
 image-sm: https://pixnio.com/free-images/2017/06/01/2017-06-01-00-00-46.jpg
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+Un editor de código es una pieza clave para cualquier programador que se precie, su herramienta principal de trabajo para desarrollar su actividad y programar su aplicaciones, páginas web o cualquier otro desarrollo web.
 
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+Hoy os vamos a mostrar los editores de código más utilizados por los programadores profesionales. Todos los editores tienen nociones comunes y funcionalidades parecidas, aunque cada uno tiene ciertas funciones específicas que hacen que los desarrolladores se decanten por ellos. En cuanto a diseño, la mayoría de editores tienen una interfaz similar basada en criterios de experiencia de usuario y sencillez a la hora de utilizar el software.
 
 <ol>
   <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
