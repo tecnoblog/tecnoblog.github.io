@@ -19,7 +19,7 @@ En cuanto a diseño, la mayoría de editores tienen una interfaz similar basada 
 El <strong>Atom</strong> es un editor de código desarrollado por esta casa (Github), por ello es obligación hablar de él y recomendaros que lo probéis. Tiene una interfaz sencilla y rápida con comandos especiales para acortar tareas. Además, el editor se actualiza constantemente con aportaciones de programadores de Github. Podéis descargarlo gratuitamente, ya que es un software libre.
 
 <h3>Sublime Text</h3>
-
+<br/>
 <p>El <strong>Sublime Text</strong> ya tiene cierto recorrido en el mundo del desarrollo web, con una gran baza a sus espaldas. La instalación de plugins es sin duda el punto fuerte de este editor de código que nos permite mucha versatilidad. </p>
 
 Además, cuenta con un diseño y una interfaz sencilla e intuitiva pensada tanto para principiantes como para profesionales de la programación. 
@@ -32,7 +32,7 @@ El Sublime Text tiene <strong>licencia de pago</strong>, aunque se puede utiliza
 </figure>
 
 <h3>Vim</h3>
-
+<br/>
 <p><strong>Vim</strong> es quizá el editor de código más complejo de utilizar de forma avanzada, ya que permite multitud de variantes que pueden hacer complicado el proceso de aprendizaje. </p>
 
 <p>Se caracteriza por una fácil instalación de plugins que podrás encontrar en Github y descargarlos.  Está pensado para utilizarlo mediante teclado y obviar el uso del ratón para ir más rápido. En cuanto aprendas a manejarte con Vim irás muy rápido, aunque al principio probablemente te cueste.</p>
