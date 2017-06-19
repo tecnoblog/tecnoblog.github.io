@@ -15,8 +15,7 @@ Hoy os vamos a mostrar los editores de código más utilizados por los programad
 En cuanto a diseño, la mayoría de editores tienen una interfaz similar basada en criterios de experiencia de usuario y sencillez a la hora de utilizar el software.
 
 <h3>Atom</h3>
-
-
+<br/>
 El <strong>Atom</strong> es un editor de código desarrollado por esta casa (Github), por ello es obligación hablar de él y recomendaros que lo probéis. Tiene una interfaz sencilla y rápida con comandos especiales para acortar tareas. Además, el editor se actualiza constantemente con aportaciones de programadores de Github. Podéis descargarlo gratuitamente, ya que es un software libre.
 
 <h3>Sublime Text</h3>
