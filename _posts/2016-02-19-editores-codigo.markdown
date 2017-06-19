@@ -21,8 +21,7 @@ El <strong>Atom</strong> es un editor de código desarrollado por esta casa (Git
 
 <h3>Sublime Text</h3>
 
-
-El <strong>Sublime Text</strong> ya tiene cierto recorrido en el mundo del desarrollo web, con una gran baza a sus espaldas. La instalación de plugins es sin duda el punto fuerte de este editor de código que nos permite mucha versatilidad. 
+<p>El <strong>Sublime Text</strong> ya tiene cierto recorrido en el mundo del desarrollo web, con una gran baza a sus espaldas. La instalación de plugins es sin duda el punto fuerte de este editor de código que nos permite mucha versatilidad. </p>
 
 Además, cuenta con un diseño y una interfaz sencilla e intuitiva pensada tanto para principiantes como para profesionales de la programación. 
 
