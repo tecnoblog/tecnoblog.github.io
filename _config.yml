@@ -6,7 +6,7 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Tecnoblog - Blog Tecnología de Github
+title: Tecnoblog - Github
 description: Blog de Tecnología de Github - Artículos tecnologicos, programación, smartphone, PC
 url: ""
 twitter_username: 
