@@ -5,8 +5,8 @@ date: 2017-01-05
 categories:
   - Programacion
 description: 
-image: https://s9.postimg.org/87777koi7/python.png
-image-sm: https://s9.postimg.org/87777koi7/python.png
+image: https://s21.postimg.org/bqaft6sh3/code-php.jpg
+image-sm: https://s21.postimg.org/bqaft6sh3/code-php.jpg
 ---
 <h2>Qué lenguaje de programación escoger si soy principiante</h2>
 <p>Si eres nuevo en el mundo de la programación, es muy probable que te preguntes qué lenguaje de programación es el más adecuado para escoger si eres principiante, la verdad es que no existe un lenguaje de programación específico para los principiantes, esto depende de a qué es lo que te quieres dedicar y qué quieres lograr con tu aprendizaje.</p>
