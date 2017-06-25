@@ -8,7 +8,9 @@ description:
 image: https://s9.postimg.org/szq00wy4v/15543183562_67159a1097_b.jpg
 image-sm: https://s9.postimg.org/szq00wy4v/15543183562_67159a1097_b.jpg
 ---
-Las claves para cambiar de móvil resultan bastante importantes, ya que gracias a ellas podremos mantener toda la información que queramos de nuestro antiguo móvil y <strong>pasarla al nuevo equipo que vayamos a adquirir</strong>, así que si estás pensando en cambiar de móvil, a continuación hallarás los pasos claves para hacerlo y conservar todos tus archivos e información importante.
+Las claves para cambiar de móvil resultan bastante importantes, ya que gracias a ellas podremos mantener toda la información que queramos de nuestro antiguo móvil y <strong>pasarla al nuevo equipo que vayamos a adquirir</strong>.
+
+<p>Así que si estás pensando en cambiar de móvil, a continuación hallarás los pasos claves para hacerlo y conservar todos tus archivos e información importante.</p>
 
 <p>En caso de que todas tus <strong>fotos y demás archivos fueran almacenados en una MicroSD</strong>, todo el proceso de traspasar la información de un móvil a otro será mucho más sencillo, pues sólo tendrás que insertar la MicroSD en tu nuevo móvil y listo, ya tendrás toda la información en el nuevo equipo.</p>
 
