@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Drive o Dropbox ¿cuál es mejor?"
-date: 2017-03-13
+date: 2017-01-13
 categories:
   - Almacenamiento
 description: 
