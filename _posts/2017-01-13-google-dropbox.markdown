@@ -3,7 +3,7 @@ layout: post
 title: "Google Drive o Dropbox ¿cuál es mejor?"
 date: 2017-01-13
 categories:
-  - Almacenamiento
+  - PC
 description: 
 image: https://s24.postimg.org/y32z188at/cloud-storage.jpg
 image-sm: https://s24.postimg.org/y32z188at/cloud-storage.jpg
