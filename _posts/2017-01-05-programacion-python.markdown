@@ -16,7 +16,7 @@ image-sm: https://s9.postimg.org/87777koi7/python.png
 <p>Lo fantástico de Python es que podrás encontrar un <a href="https://www.python.org/">tutorial oficial en la página de Python</a>, allí podrás aprender cómo instalarlo y además te enseñarán cómo es la sintaxis que maneja, también te explicarán cómo crear funciones, asignar valores, y demás. </p>
 <p>Aprovecha también de instalar el intérprete de Python, este te facilitará mucho el trabajo, pues podrás ingresar cualquier comando para descubrir cómo funciona sin necesidad de hacerlo primero en el programa.</p>
 
-<p>Una vez tengas Python y el intérprete instalados, asegúrate de tener un editor de textos en tu ordenador, incluso el bloc de notas que viene instalado en Windows te podrá ser útil, si no, puedes probar el Notepad++, TextPad, JEdit o cualquier otro.</p>
+<p>Una vez tengas Python y el intérprete instalados, asegúrate de tener un <strong>editor de código en tu ordenador</strong>, incluso el bloc de notas que viene instalado en Windows te podrá ser útil, si no, puedes probar el Notepad++, TextPad, JEdit o cualquier otro.</p>
 <h3>Comenzar a programar</h3>
 <br/>
 <p>Ahora sí podrás <strong>comenzar a programar</strong>, gracias al intérprete tendrás la facilidad de aprender rápidamente cómo funcionan los distintos comandos y cómo es la sintaxis que maneja el lenguaje de programación de Python. Para que te familiarices con todo el proceso, es aconsejable empezar con cosas simples, como conversiones, cálculos, creación y manejo de variables, entre otros.</p>
