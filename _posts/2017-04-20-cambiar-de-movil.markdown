@@ -17,7 +17,7 @@ Las claves para cambiar de móvil resultan bastante importantes, ya que gracias 
 
 <h3>Sincronización de contactos</h3>
 <p>Otra clave que resulta imprescindible para cuando vayamos a cambiar de móvil es la sincronización de nuestros contactos a la cuenta de Google, de esta forma, al cambiar de móvil, sólo tendrás que <strong>iniciar sesión en tu cuenta</strong> y así se cargarán todos los contactos que tenías en tu teléfono móvil anterior.</p>
-<br/>
+
 <p>Por otra parte, cuando adquirimos un nuevo móvil es necesario revisar que el sistema operativo del mismo está actualizado para así poder disfrutar al máximo del nuevo equipo, así que asegúrate de tener la última actualización. </p>
-<br/>
-<p>Asimismo, procura eliminar completamente todas las aplicaciones que consideres innecesarias y que no te sean útiles, de esta forma podrás darle un mayor rendimiento a tu nuevo dispositivo, luego de esto podrás instalar todas las aplicaciones que tenías instaladas en tu anterior móvil.</p>
+
+<p>Asimismo, procura <strong>eliminar completamente todas las aplicaciones que consideres innecesarias</strong> y que no te sean útiles, de esta forma podrás darle un mayor rendimiento a tu nuevo dispositivo, luego de esto podrás instalar todas las aplicaciones que tenías instaladas en tu anterior móvil.</p>
