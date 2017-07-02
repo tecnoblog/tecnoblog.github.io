@@ -3,7 +3,7 @@ email: aps2710@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-101976481-1
 
 # SEO settings
 title: Tecnoblog - Github
