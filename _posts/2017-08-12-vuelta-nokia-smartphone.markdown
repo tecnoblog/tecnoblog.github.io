@@ -5,8 +5,8 @@ date: 2017-07-06
 categories:
   - Smartphone
 description: 
-image: https://s21.postimg.org/s61zro6xz/gaming.jpg
-image-sm: https://s21.postimg.org/s61zro6xz/gaming.jpg
+image: https://s4.postimg.org/5n2mdhn19/Nokia-8.jpg
+image-sm: https://s4.postimg.org/5n2mdhn19/Nokia-8.jpg
 ---
 <p>Sin dudas el mercado smartphone esta inundado de marcas como Samsung, Motorola, Huawei y demás, pero una tradicional de los teléfonos, como lo es Nokia, poco o nada ha participado en el mundo smartphone. Por esta razón la multinacional finesa se prepara para el regreso de sus productos y así la vuelta de Nokia al mercado smartphone, sin dudas será un éxito.</p>
 <p>Famosos por su resistencia, funcionalidad y demás detalles, los equipos de Nokia son muy apetecidos dentro del público más exigente, por ello renacer  se dio hace un par de meses con los Nokia 3, 5 y 6. No era para menos, ya que estos smartphone cuentan con unas especificaciones muy buenas.</p>
