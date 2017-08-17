@@ -5,8 +5,8 @@ date: 2017-08-15
 categories:
   - PC
 description: 
-image: https://s7.postimg.org/74ws8lkx7/Stock_Snap_5_UQ2_YS94_N1.jpg
-image-sm: https://s7.postimg.org/74ws8lkx7/Stock_Snap_5_UQ2_YS94_N1.jpg
+image: https://s21.postimg.org/rr7wn8n2v/ipad.jpg
+image-sm: https://s21.postimg.org/rr7wn8n2v/ipad.jpg
 ---
 
 <p>
