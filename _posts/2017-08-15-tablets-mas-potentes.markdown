@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tablets más potentes de la actualidad"
-date: 2017-08-15
+date: 2017-06-15
 categories:
   - PC
 description: 
