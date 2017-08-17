@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lenguajes de programación para novatos"
-date: 2017-06-06
+date: 2017-08-15
 categories:
   - Programacion
 description: 
