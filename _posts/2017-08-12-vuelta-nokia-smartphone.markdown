@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La vuelta de Nokia al mercado del smartphone"
-date: 2017-08-06
+date: 2017-09-06
 categories:
   - Smartphone
 description: 
