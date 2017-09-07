@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ordenador de gaming ¿cuál es el mejor?"
-date: 2017-07-06
+date: 2017-09-06
 categories:
   - PC
 description: 
