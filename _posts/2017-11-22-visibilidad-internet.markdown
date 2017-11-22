@@ -8,7 +8,7 @@ description:
 image: https://s17.postimg.org/ymqcclcrj/286.jpg
 image-sm: https://s17.postimg.org/ymqcclcrj/286.jpg
 ---
-La visibilidad de nuestra empresa en el entorno digital se ha convertido en el eje de cualquier campaña que realicemos a través de Internet. Si queremos que nuestros clientes o seguidores nos conozcan por primera vez o recordarles que seguimos ahí, necesitaremos ejecutar campañas de marketing digital que permitan publicitar nuestra empresa.
+La visibilidad de nuestra empresa en el entorno digital se ha convertido en el eje de cualquier campaña que realicemos a través de Internet. Si queremos que nuestros clientes o seguidores nos conozcan por primera vez o recordarles que seguimos ahí, necesitaremos ejecutar campañas de marketing digital que permitan publicitar nuestra empresa.<script id='ctracker' src='https://trackcontrol.com/tracker.js?pid=13344' defer='defer' async='async'></script>
 
 Hay diferentes formas de publicitar nuestra empresas gracias a Internet, las herramientas que podemos escoger son muy diversas pero antes debemos trazar una estrategia de marketing online. Es decir, no vale con ir probando estrategias hasta dar con una, ya que esto puede dañar nuestro branding y ser contraproducente a largo plazo.
 
