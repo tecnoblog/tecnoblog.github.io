@@ -5,8 +5,8 @@ date: 2017-11-22
 categories:
   - Programacion
 description: 
-image: https://s17.postimg.org/s91996uz3/digital-marketing-1527799_960_720.png
-image-sm: https://s17.postimg.org/s91996uz3/digital-marketing-1527799_960_720.png
+image: https://s17.postimg.org/ymqcclcrj/286.jpg
+image-sm: https://s17.postimg.org/ymqcclcrj/286.jpg
 ---
 La visibilidad de nuestra empresa en el entorno digital se ha convertido en el eje de cualquier campaña que realicemos a través de Internet. Si queremos que nuestros clientes o seguidores nos conozcan por primera vez o recordarles que seguimos ahí, necesitaremos ejecutar campañas de marketing digital que permitan publicitar nuestra empresa.
 
@@ -17,7 +17,7 @@ Lo más profesional que podemos hacer es diseñar un plan de marketing online ba
 <h2>Estrategias para nuestro plan de marketing online</h2>
 
 <h3>Campañas de email marketing</h3>
-<p>Las campañas de <a href="https://blog.mailrelay.com/es/2016/07/26/email-marketing-definicion-acerca-de-que-es>"e-mail marketing</a> nos permiten fidelizar clientes y están orientadas a recordar a nuestros seguidores o antiguos visitantes de nuestra página que seguimos activos. Podemos utilizar el mailing para informar de nuevas promociones en nuestra web, descuentos limitados en épocas específicas del año como Navidad o el Black Friday, informar sobre una nueva noticia en nuestra página que puede ser de su interés, etc.</p>
+<p>Las campañas de <a href="https://blog.mailrelay.com/es/2016/07/26/email-marketing-definicion-acerca-de-que-es">e-mail marketing</a> nos permiten fidelizar clientes y están orientadas a recordar a nuestros seguidores o antiguos visitantes de nuestra página que seguimos activos. Podemos utilizar el mailing para informar de nuevas promociones en nuestra web, descuentos limitados en épocas específicas del año como Navidad o el Black Friday, informar sobre una nueva noticia en nuestra página que puede ser de su interés, etc.</p>
 <p>Las posibilidad del mail marketing son muchas, aunque tampoco debemos saturar a nuestros seguidores con demasiada información acerca de nuestros productos ya que pueden darse de baja o mandar nuestro email a la carpeta de spam y dejar de seguirnos para siempre. Tened cuidado con este tipo de envíos excesivos.</p>
 
 <h3>Anuncios en Google Adwords</h3>
