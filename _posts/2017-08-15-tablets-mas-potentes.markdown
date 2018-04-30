@@ -5,8 +5,8 @@ date: 2017-06-15
 categories:
   - PC
 description: 
-image: https://s21.postimg.org/rr7wn8n2v/ipad.jpg
-image-sm: https://s21.postimg.org/rr7wn8n2v/ipad.jpg
+image: https://s21.postimg.cc/rr7wn8n2v/ipad.jpg
+image-sm: https://s21.postimg.cc/rr7wn8n2v/ipad.jpg
 ---
 
 <p>
