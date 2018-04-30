@@ -5,8 +5,8 @@ date: 2017-09-17
 categories:
   - PC
 description: 
-image: https://s26.postimg.org/npo5eijah/responsive.png
-image-sm: https://s26.postimg.org/npo5eijah/responsive.png
+image: https://s26.postimg.cc/npo5eijah/responsive.png
+image-sm: https://s26.postimg.cc/npo5eijah/responsive.png
 ---
 <p>El desarrollo web se ha convertido en una disciplina muy demandada debido el crecimiento del entorno digital. Mucha gente se ha dado cuenta del potencial que tiene el mundo de Internet y quiere sacar partido de él.</p>
 <p>El desarrollo de páginas web corporativas es un elemento fundamental para cualquier empresa que necesite mejorar sus servicios digitales o su imagen de marca. Una web que ofrece unos servicios a través de un <strong>diseño de calidad y una web intuitiva</strong> tiene grandes posibilidades de vender mejor sus productos o servicios frente a otras que apuestan por un diseño clásico.</p>
