@@ -5,8 +5,8 @@ date: 2017-09-06
 categories:
   - PC
 description: 
-image: https://s21.postimg.org/s61zro6xz/gaming.jpg
-image-sm: https://s21.postimg.org/s61zro6xz/gaming.jpg
+image: https://s21.postimg.cc/s61zro6xz/gaming.jpg
+image-sm: https://s21.postimg.cc/s61zro6xz/gaming.jpg
 ---
 Hoy os vamos a dar unas cuantas pinceladas sobre ordenadores gaming y os daremos además nuestras recomendaciones a la hora de adquirir uno nuevo.
 
