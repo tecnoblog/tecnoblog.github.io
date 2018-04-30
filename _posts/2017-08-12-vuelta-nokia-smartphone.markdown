@@ -5,8 +5,8 @@ date: 2017-08-06
 categories:
   - Smartphone
 description: 
-image: https://s4.postimg.org/5n2mdhn19/Nokia-8.jpg
-image-sm: https://s4.postimg.org/5n2mdhn19/Nokia-8.jpg
+image: https://s4.postimg.cc/5n2mdhn19/Nokia-8.jpg
+image-sm: https://s4.postimg.cc/5n2mdhn19/Nokia-8.jpg
 ---
 La marca finlandesa resurge y presenta la semana que viene el nuevo Nokia 8
 
