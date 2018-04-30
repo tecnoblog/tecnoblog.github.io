@@ -5,8 +5,8 @@ date: 2017-11-22
 categories:
   - Programacion
 description: 
-image: https://s17.postimg.org/ymqcclcrj/286.jpg
-image-sm: https://s17.postimg.org/ymqcclcrj/286.jpg
+image: https://s17.postimg.cc/ymqcclcrj/286.jpg
+image-sm: https://s17.postimg.cc/ymqcclcrj/286.jpg
 ---
 La visibilidad de nuestra empresa en el entorno digital se ha convertido en el eje de cualquier campaña que realicemos a través de Internet. Si queremos que nuestros clientes o seguidores nos conozcan por primera vez o recordarles que seguimos ahí, necesitaremos ejecutar campañas de marketing digital que permitan publicitar nuestra empresa.
 
