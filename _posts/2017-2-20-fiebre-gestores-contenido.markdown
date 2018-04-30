@@ -5,8 +5,8 @@ date: 2017-02-20
 categories:
   - Programacion
 description: 
-image: https://s7.postimg.org/74ws8lkx7/Stock_Snap_5_UQ2_YS94_N1.jpg
-image-sm: https://s7.postimg.org/74ws8lkx7/Stock_Snap_5_UQ2_YS94_N1.jpg
+image: https://s7.postimg.cc/74ws8lkx7/Stock_Snap_5_UQ2_YS94_N1.jpg
+image-sm: https://s7.postimg.cc/74ws8lkx7/Stock_Snap_5_UQ2_YS94_N1.jpg
 ---
 <p>La fiebre de los gestores de contenido inició aproximadamente en el año 2000, esto debido a que grandes revistas, periódicos y demás necesitaban publicar bastante contenido en internet, asimismo, la creación constante de nuevos blogs y el uso de diversas redes sociales por gran cantidad de usuarios de internet hicieron imprescindibles los gestores de contenido. </p>
 
