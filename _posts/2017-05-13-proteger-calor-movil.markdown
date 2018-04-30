@@ -5,8 +5,8 @@ date: 2017-05-13
 categories:
   - Smartphone
 description: 
-image: https://s15.postimg.org/kvtd16s57/movil-playa.jpg
-image-sm: https://s15.postimg.org/kvtd16s57/movil-playa.jpg
+image: https://s15.postimg.cc/kvtd16s57/movil-playa.jpg
+image-sm: https://s15.postimg.cc/kvtd16s57/movil-playa.jpg
 ---
 <p>En aquellos días calurosos resulta conveniente y de gran importancia saber cómo <strong>proteger nuestro Smartphone del calor</strong> en verano, por este motivo, en el siguiente artículo podrás encontrar algunas medidas para que tu Smartphone no sufra las consecuencias del calor excesivo y puedas protegerlo correctamente.</p>
 <p>El calor del verano puede contribuir a que tu Smartphone se dañe, sin embargo, hay otros factores que influyen para que este se recaliente, como el calor que genera la batería y el procesador interno, por ello es fundamental que estés pendiente de cada uno de estos factores para que puedas prevenir a tiempo el sobrecalentamiento de tu móvil.</p>
