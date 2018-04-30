@@ -5,8 +5,8 @@ date: 2017-05-29
 categories:
   - Smartphone
 description: 
-image: https://s3.postimg.org/5k62g8deb/14922173883_c05ab37139_b.jpg
-image-sm: https://s3.postimg.org/5k62g8deb/14922173883_c05ab37139_b.jpg
+image: https://s3.postimg.cc/5k62g8deb/14922173883_c05ab37139_b.jpg
+image-sm: https://s3.postimg.cc/5k62g8deb/14922173883_c05ab37139_b.jpg
 ---
 ¿No sabes que movil te conviene más? Te voy a mostrar algunos terminales que aclararán tu decisión.
 
