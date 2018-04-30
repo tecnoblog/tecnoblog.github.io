@@ -5,8 +5,8 @@ date: 2018-02-22
 categories:
   - Smartphone
 description: 
-image: https://s9.postimg.org/szq00wy4v/15543183562_67159a1097_b.jpg
-image-sm: https://s9.postimg.org/szq00wy4v/15543183562_67159a1097_b.jpg
+image: https://s9.postimg.cc/szq00wy4v/15543183562_67159a1097_b.jpg
+image-sm: https://s9.postimg.cc/szq00wy4v/15543183562_67159a1097_b.jpg
 ---
 
 <p>El móvil se ha convertido en la herramienta más importante para los autónomos y profesionales que llevan a cabo sus tareas de captación y dirección de proyectos. </p>
