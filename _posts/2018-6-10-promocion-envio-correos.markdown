@@ -12,7 +12,7 @@ image-sm: https://s17.postimg.cc/ymqcclcrj/286.jpg
 
 Promocionar los servicios de una empresa por Internet es algo muy habitual hoy en día. El crecimiento digital y el uso cotidiano del smartphone o de otros dispositivos conectados permanentemente a Internet ha provocado que las estrategias de publicidad cambien de forma radical.
 
-Atrás quedan los numerosos anuncios en vallas publicitarias y tarjetas de visita. Ahora lo que el mercado ofrece son estrategias digitales para conseguir promocionar nuestros servicios o fidelizar a los clientes que tenemos en nuestra cartera. Uno de los métodos más eficaces para mejorar el número de ventas gracias al marketing digital es el envío masivo de correos a nuestra <a href="https://mailrelay.com/es/newsletter">newsletter</a>
+Atrás quedan los numerosos anuncios en vallas publicitarias y tarjetas de visita. Ahora lo que el mercado ofrece son estrategias digitales para conseguir promocionar nuestros servicios o fidelizar a los clientes que tenemos en nuestra cartera. Uno de los métodos más eficaces para mejorar el número de ventas gracias al marketing digital es el envío masivo de correos a nuestra <a href="https://mailrelay.com/es/newsletter">newsletter</a>.
 
 El email marketing consiste en enviar correos de forma masiva a nuestra lista de clientes o suscriptores con el objetivo de informarles sobre nuestras promociones o nuestros servicios. ¿Qué conseguimos con esto? Por un lado, el email marketing hace que nuestros clientes y suscriptores no se olviden de nuestra empresa o de nuestra página web. Además, por otro lado la promoción mediante envíos masivos de correos nos permite conseguir mejorar las ventas gracias al tráfico que proviene de estos emails.
 
