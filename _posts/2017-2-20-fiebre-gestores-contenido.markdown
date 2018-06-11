@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La fiebre de los gestores de contenido"
-date: 2017-02-20
+date: 2018-04-20
 categories:
   - Programacion
 description: 
