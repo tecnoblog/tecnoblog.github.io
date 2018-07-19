@@ -5,8 +5,8 @@ date: 2018-06-10
 categories:
   - Programacion
 description: 
-image: https://s17.postimg.cc/ymqcclcrj/286.jpg
-image-sm: https://s17.postimg.cc/ymqcclcrj/286.jpg
+image: https://s33.postimg.cc/g7yunpn7z/foto1mkt.jpg
+image-sm: https://s33.postimg.cc/g7yunpn7z/foto1mkt.jpg
 ---
 
 
