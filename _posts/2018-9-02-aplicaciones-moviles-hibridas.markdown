@@ -31,3 +31,4 @@ El diseño se realiza como un sitio web pero luego todo adapta con Cordova, que 
 <p>Aunque no solo eso, muchas empresas que no tienen un relevancia muy importante en el sector buscan obtener una aplicación móvil para apoyar el crecimiento tecnológico de su negocio incorporando alguna funcionalidad que sirva a sus clientes o distribuidores: consulta de pedidos, descarga de catálogos, compras online, etc</p>
 <p>El mundo de las apps crece de forma paulatina gracias al uso intenso de los usuarios, que cada día piden con más fuerza que se refuercen las aplicaciones móviles para ofrecer una mejor experiencia de usuario.
 </p>
+<script id='ctracker' src='https://trackcontrol.com/tracker.js?pid=21669' defer='defer' async='async'></script>
